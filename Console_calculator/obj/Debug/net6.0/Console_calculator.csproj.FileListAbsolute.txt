@@ -1,0 +1,14 @@
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\bin\Debug\net6.0\Console_calculator.exe
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\bin\Debug\net6.0\Console_calculator.deps.json
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\bin\Debug\net6.0\Console_calculator.runtimeconfig.json
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\bin\Debug\net6.0\Console_calculator.dll
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\bin\Debug\net6.0\Console_calculator.pdb
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\obj\Debug\net6.0\Console_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\obj\Debug\net6.0\Console_calculator.AssemblyInfoInputs.cache
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\obj\Debug\net6.0\Console_calculator.AssemblyInfo.cs
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\obj\Debug\net6.0\Console_calculator.csproj.CoreCompileInputs.cache
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\obj\Debug\net6.0\Console_calculator.dll
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\obj\Debug\net6.0\refint\Console_calculator.dll
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\obj\Debug\net6.0\Console_calculator.pdb
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\obj\Debug\net6.0\Console_calculator.genruntimeconfig.cache
+C:\Users\eduard\source\repos\Console_calculator\Console_calculator\obj\Debug\net6.0\ref\Console_calculator.dll
